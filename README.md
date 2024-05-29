@@ -12,4 +12,4 @@ finetune_rate = 0.01 （其他参数的学习率 / 输出层学习率）
 
 ###### 如果你想尝试Alexnet和Resnet18之外的其他CNN网络，需要注意不同网络输出层的替换方式有所不同。
 ### tensorboard可视化训练过程
-文档存储在Alexnet和Resnet18文件夹中，可以下载下来通过tensorboard命令查看它们。
+文档存储在Alexnet和Resnet18文件夹中，可以在Release下载下来，通过tensorboard命令查看它们。
