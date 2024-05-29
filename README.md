@@ -1,5 +1,5 @@
 ## 复旦大学大数据学院计算机视觉期中作业Task1.
-### Result
+### Best Result
 Alexnet（base_lr = 0.01, finetune_rate =1）准确率为52.4\%
 
 Resnet18（base_lr = 0.001, finetune_rate =1）准确率为74.4\%
